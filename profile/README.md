@@ -1,5 +1,4 @@
-# Devolvex - Making stuff for a living.
-We at @Devolvex, create stuff for a living. We create the future. Check out our latest projects at the URL down below.
+# Devolvex - Devolvex is a team of developers who have come together to build software for the future! We code Minecraft plugins, Discord bots, API's, and Websites
 
 - Website: **[Click Here](http://devolvex.net/)**
 - Discord: **[Click Here](https://discord.gg/RxBRqmJTrk)**
